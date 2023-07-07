@@ -2,7 +2,7 @@
 Module-4 Assignment
 
 
-**PyCity Schools Data Summary:**
+**PyCity Schools Data Conclusions:**
 
 All the top-performing schools were charter type and all the low-performing schools belonged to district type. Although there was not much difference in the average math or average reading scores from both the school types, the percentage of students passing in math or reading or in both was considerably higher in charter school types as compared to the district school types
 
